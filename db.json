@@ -1,0 +1,9 @@
+{
+    "pedidos": [{
+        "idCliente": "10",
+        "idProduto": "2",
+        "quantidade": "10",
+        "data": "23/11/2019",
+        "situacao": "Iniciado"
+    }]
+}
